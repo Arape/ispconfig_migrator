@@ -1,12 +1,12 @@
 <?php
 
-$USER = 'portal';
-$PASS = 'uLcKfa92';
-$DB_ISP = 'dbispconfig';
-$DB_FW = 'freeweb';
+$USER = '';
+$PASS = '';
+$DB_ISP = '';
+$DB_FW = '';
 $FOMUNKAKONYVTAR='/home/arape/FWexport/FW_export'; //webmappa exportnál
-$SQLDUMPBOTUSER = 'arapebot';
-$SQLDUMPBOTUSERPASS = 'uLcKfa92';
+$SQLDUMPBOTUSER = '';
+$SQLDUMPBOTUSERPASS = '';
 $DOWNLOADURLDIR = '/var/www/arape.freeweb.hu/web/';
 
 //argumentumok feldolgozása és user manual

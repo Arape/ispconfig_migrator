@@ -3,17 +3,17 @@
 //HA EZ A SZÁM 0 akkor minden adatbázisjelszó 'EztnemHISZEMEL2018' ha 1 akkor a a kinyertet használja
 $ADATBAZISJELSZO = 1;
 
-$username = 'arape';
-$password = 'B6fCNa7pT$2SufdfgJ43';
+$username = '';
+$password = '';
 $reseller_id = '';
 $DOWNLOADMAINDIR = '/home/arape/FW_import';
 $DOWNLOADURL = 'http://arape.freeweb.hu';
 $servernamedbconn = "localhost";
-$usernamedbconn = "root";
-$passworddbconn = "gezuka77";
+$usernamedbconn = "";
+$passworddbconn = "";
 $dbnamedbconn = "dbispconfig";
-$soap_location = 'https://freeweb.wwdh.hu:8080/remote/index.php';
-$soap_uri = 'https://freeweb.wwdh.hu:8080/remote/';
+$soap_location = 'https://domain.com:8080/remote/index.php';
+$soap_uri = 'https://domain.com:8080/remote/';
 $CLIENTVMAILDIR = '/var/vmail/freeweb.hu';
 
 //argumentumok feldolgozása és user manual
